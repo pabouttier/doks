@@ -1,4 +1,4 @@
 # Overrides for production environment
 baseurl = "https://pabouttier.github.io/doks"
-canonifyURLs = true
-relativeURLS = true
+canonifyURLs = false
+
