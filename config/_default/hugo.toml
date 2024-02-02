@@ -28,7 +28,7 @@ copyRight = "Copyright (c) 2020-2024 Hyas"
 
 [outputFormats.searchIndex]
   mediaType = "application/json"
-  baseName = "search-index"
+  baseName = "doks/search-index"
   isPlainText = true
   notAlternative = true
 
